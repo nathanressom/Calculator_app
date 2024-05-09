@@ -10,5 +10,5 @@ Python 3
 ### Screenshot/GIF showing the sample use of the script
 ![calculatorapp](https://github.com/nathanressom/Calculator_app/assets/165231285/b8525ce6-435c-4784-91f1-d81fd766ad15)
 
-## *Author Name*
-[Nathan](https://github.com/nathanressom)
+## *Nathan Ressom*
+[Nathan Ressom](https://github.com/nathanressom)
