@@ -1,4 +1,4 @@
-# Script Title
+# Calculator App
 A small Python program that creates a calculator app
 
 ### Prerequisites
